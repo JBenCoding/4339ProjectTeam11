@@ -1,0 +1,1 @@
+Modal popup template sourced from https://stackabuse.com/how-to-create-a-confirmation-dialogue-in-vue-js/ and modified
